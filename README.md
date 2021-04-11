@@ -1,2 +1,2 @@
-# human-os
+# humanos
 personal data collection service
